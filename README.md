@@ -9,7 +9,6 @@ README.md
 CookBook.md
 Instructions
 
-Checkout the code using 'git checkout https://github.com/rwstang/Getting-and-Cleaning-Data-Assignment.git YOURDIRECTORY'
 
 Download the data set, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
